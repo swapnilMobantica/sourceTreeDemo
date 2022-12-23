@@ -21,6 +21,8 @@
 		180DDDC629557957005417B0 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180DDD9829557955005417B0 /* Persistence.swift */; };
 		180DDDC729557957005417B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 180DDD9929557957005417B0 /* Assets.xcassets */; };
 		180DDDC829557957005417B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 180DDD9929557957005417B0 /* Assets.xcassets */; };
+		180DDDD829557E28005417B0 /* viewmodel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180DDDD729557E28005417B0 /* viewmodel.swift */; };
+		180DDDD929557E2B005417B0 /* viewmodel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180DDDD729557E28005417B0 /* viewmodel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +57,7 @@
 		180DDDB729557957005417B0 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		180DDDBB29557957005417B0 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		180DDDBD29557957005417B0 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		180DDDD729557E28005417B0 /* viewmodel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewmodel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,7 @@
 				180DDD9629557955005417B0 /* sourceTreeDemoApp.swift */,
 				180DDD9729557955005417B0 /* ContentView.swift */,
 				180DDD9829557955005417B0 /* Persistence.swift */,
+				180DDDD729557E28005417B0 /* viewmodel.swift */,
 				180DDD9929557957005417B0 /* Assets.xcassets */,
 				180DDD9429557955005417B0 /* sourceTreeDemo.xcdatamodeld */,
 			);
@@ -310,6 +314,7 @@
 				180DDDBF29557957005417B0 /* sourceTreeDemo.xcdatamodeld in Sources */,
 				180DDDC529557957005417B0 /* Persistence.swift in Sources */,
 				180DDDC129557957005417B0 /* sourceTreeDemoApp.swift in Sources */,
+				180DDDD829557E28005417B0 /* viewmodel.swift in Sources */,
 				180DDDC329557957005417B0 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -321,6 +326,7 @@
 				180DDDC029557957005417B0 /* sourceTreeDemo.xcdatamodeld in Sources */,
 				180DDDC629557957005417B0 /* Persistence.swift in Sources */,
 				180DDDC229557957005417B0 /* sourceTreeDemoApp.swift in Sources */,
+				180DDDD929557E2B005417B0 /* viewmodel.swift in Sources */,
 				180DDDC429557957005417B0 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
